@@ -1,4 +1,3 @@
-````md
 # GearboxSimulations
 
 A small collection of **browser-based gearbox / powertrain simulation pages** (single-file `.html` documents) focused on **geartrain kinematics, torque multiplication, stress/thermal “bloom” visualization concepts, and transmission power-flow logic**.
